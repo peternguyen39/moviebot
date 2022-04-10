@@ -6,3 +6,4 @@ data/slot_values.json
 
 # evaluation data
 eval/data/extras/*
+config/bot_token.yaml
