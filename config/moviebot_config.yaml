@@ -15,7 +15,7 @@ NLU:
 
 TELEGRAM: True # execute the code on Telegram
 
-POLLING: False # True when using Telegram without server
+POLLING: True # True when using Telegram without server
 
 MESSENGER: True
 
